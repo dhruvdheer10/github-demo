@@ -1,2 +1,2 @@
 # github-demo
-Starter github commands
+Starter github commands for beginners.
